@@ -19,8 +19,8 @@
               <li><a href="about_us.php">About Us</a></li>
               <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Services<span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="home.php">For Home</a></li>
-                <li><a href="business.php">For Business</a></li>
+                <li><a href="home.php">Home</a></li>
+                <li><a href="business.php">Business</a></li>
               </ul>
               </li>
               <li><a href="portfolio.php">Portfolio</a></li>
@@ -50,7 +50,7 @@
           <div class="carousel-caption">
             <h1>We know <strong>small business</strong><br>
               keep yours on<strong> top</strong> of the competition</h1>
-            <p class="lead inverse">We are your one stop shop for IT services, you only pay when you need it and we'll keep you miles ahead of your competition.</p>
+            <p class="lead inverse">We are your one stop shop for IT services, only pay when you need it and we'll keep you miles ahead of the competition.</p>
           </div>
         </div>
         </li>
@@ -58,7 +58,7 @@
         <div class="container">
           <div class="carousel-caption">
             <h1 class="inverse"><strong>Home</strong> support<br>
-             </h1>
+            Get your home's electronics fixed </h1>
             <p class="lead">if you are looking for <a href="services.php"><strong>a bold approach</strong></a> you will love the header effect,<br>
             but even if you like <a href="page_alternative.php"><strong>a more conservative feel</strong></a>, you can always try the boxed alternative!</p>
           </div>
@@ -76,16 +76,16 @@
         <section id="features_teasers_wrapper">
         <div class="row">
           <div class="span4 feature_teaser"> <img alt="responsive" src="images/responsive.png">
-            <h3>Any Technology</h3>
-            <p>We know what options are out there and can develop a solution that fits your exact needs.</p>
+            <h3>Affordable</h3>
+            <p>As a small efficient business, we are able to provide better tech services at less than 50% of the cost of the big guys like GeekSquad</p>
           </div>
           <div class="span4 feature_teaser"> <img alt="responsive" src="images/git.png">
-            <h3>Based on Twitter Bootstrap</h3>
-            <p>The front-end development framework with a <strong>steep learning curve</strong>. It changes the way you develop sites. Suspendisse nec risus fermentum sapien congue fermentum sed at lorem.</p>
+            <h3>Versitile</h3>
+            <p>Our staff has the knowledge and the tools to tackle any problem, for home or small business. Whether it's setting up the new family computer or optimizing the company database, Voska Electronics can handle it all.</p>
           </div>
           <div class="span4 feature_teaser"> <img alt="responsive" src="images/less.png">
-            <h3>Makes real use of {LESS}</h3>
-            <p>{re}<strong>start</strong> comes with a style.less file that tries to use all the power of <strong>{less} and bootstrap combined</strong>. Suspendisse nec risus fermentum sapien congue fermentum sed at lorem.</p>
+            <h3>Work Smarter</h3>
+            <p>We </p>
           </div>
         </div>
         </section>
