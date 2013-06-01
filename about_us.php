@@ -88,11 +88,11 @@
                 </div>
                 <div class="span3 team_member">
                   <figure style="background-image: url(images/2b.jpg)"><img src="images/2a.jpg" alt="2a"></figure>
-                  <h5>Matt Voska</h5>
+                  <h5><a href="http://www.mattvoska.com">Matt Voska</a></h5>
                   <small>Founder and Boston Technician</small>
                   <hr>
-                  <div class="team_social"> <a href="#facebook"><i class="icon icon-facebook"></i></a> <a href="#twitter"><i class="icon icon-twitter"></i></a> <a href="#pinterest"><i class="icon icon-linkedin"></i></a> <a href="#googleplus"><i class="icon icon-google-plus"></i></a> </div>
-                  <p class="short_bio">In hac habitasse platea dictumst. Suspendisse non tellus ligula. Morbi molestie feugiat tortor a hendrerit.</p>
+                  <div class="team_social"> <a href="http://www.facebook.com/voska"><i class="icon icon-facebook"></i></a> <a href="http://www.twitter.com/mattvoska"><i class="icon icon-twitter"></i></a> <a href="http://www.linkedin.com/in/voska"><i class="icon icon-linkedin"></i></a><a href="http://www.plus.google.com"><i class="icon icon-google-plus"></i></a> </div>
+                  <p class="short_bio"></p>
                 </div>
                 <div class="span3 team_member">
                   <figure style="background-image: url(images/3b.jpg)"><img src="images/3a.jpg" alt="3a"></figure>

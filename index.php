@@ -36,31 +36,32 @@
     <section id="slider_wrapper">
     <div id="main_flexslider" class="flexslider">
       <ul class="slides">
-        <li class="item"  style="background-image: url(images/2.jpg)">
-        <div class="container">
-          <div class="carousel-caption">
-            <h1>Work more <strong>efficiently</strong><br>
-              Save <strong>time</strong> and <strong>money</strong></h1>
-            <p class="lead inverse">We can fix all of your tech annoyances saving you time and money in your workflow while putting you at ease with your technology.</p>
-          </div>
-        </div>
-        </li>
         <li class="item"  style="background-image: url(images/3.jpg)">
         <div class="container">
+          <a href="business.php">
           <div class="carousel-caption">
             <h1>We know <strong>small business</strong><br>
               keep yours on<strong> top</strong> of the competition</h1>
             <p class="lead inverse">We are your one stop shop for IT services, only pay when you need it and we'll keep you miles ahead of the competition.</p>
           </div>
+          </a>
         </div>
         </li>
         <li class="item"  style="background-image: url(images/1.jpg)">
         <div class="container">
           <div class="carousel-caption">
             <h1 class="inverse"><strong>Home</strong> support<br>
-            Get your home's electronics fixed </h1>
-            <p class="lead">if you are looking for <a href="services.php"><strong>a bold approach</strong></a> you will love the header effect,<br>
-            but even if you like <a href="page_alternative.php"><strong>a more conservative feel</strong></a>, you can always try the boxed alternative!</p>
+              Get <strong>all</strong> of your home's electronics fixed </h1>
+            <p class="lead"></p>
+          </div>
+        </div>
+        </li>
+        <li class="item"  style="background-image: url(images/2.jpg)">
+        <div class="container">
+          <div class="carousel-caption">
+            <h1>Work more <strong>efficiently</strong><br>
+              Save <strong>time</strong> and <strong>money</strong></h1>
+            <p class="lead inverse">We can fix all of your tech annoyances saving you time and money in your workflow while putting you at ease with your technology.</p>
           </div>
         </div>
         </li>
@@ -72,12 +73,13 @@
         <section class="call_to_action">
         <h3>focus on what’s important</h3>
         <h4>Voska Electronics helps save you time and money</h4>
-        <a class="btn btn-primary btn-large" href="https://wrapbootstrap.com/theme/re-start-clean-multipurpose-template-WB0NPLR53">Buy this theme!</a> </section>
+        <a class="btn btn-primary btn-large" href="https://wrapbootstrap.com/theme/re-start-clean-multipurpose-template-WB0NPLR53">Call us <strong>today</strong></a>
+        </section>
         <section id="features_teasers_wrapper">
         <div class="row">
           <div class="span4 feature_teaser"> <img alt="responsive" src="images/responsive.png">
             <h3>Affordable</h3>
-            <p>As a small efficient business, we are able to provide better tech services at less than 50% of the cost of the big guys like GeekSquad</p>
+            <p>As a small efficient business, we are able to provide smarter tech services at less than 50% of the cost of the big guys like GeekSquad</p>
           </div>
           <div class="span4 feature_teaser"> <img alt="responsive" src="images/git.png">
             <h3>Versitile</h3>
@@ -133,15 +135,6 @@
       </div>
       <?php include("footer.php"); ?> 
     </div>
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/jquery-1.9.0.min.js"><\/script>')</script>
-      <script src="twitter-bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-      <script type="text/javascript" src="js/modernizr.custom.48287.js"></script>
-      <script src="js/woothemes-FlexSlider-06b12f8/jquery.flexslider-min.js"></script>
-      <script src="js/prettyPhoto_3.1.5/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
-      <script src="js/isotope/jquery.isotope.min.js" type="text/javascript"></script>
-      <script type="text/javascript" src="js/jquery.ui.totop.js"></script>
-      <script type="text/javascript" src="js/easing.js"></script>
-      <script type="text/javascript" src="js/restart_theme.js"></script>
+    <?php include("scripts.php"); ?>
     </body>
   </html>
