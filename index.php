@@ -73,7 +73,7 @@
         <section class="call_to_action">
         <h3>focus on what’s important</h3>
         <h4>Voska Electronics helps save you time and money</h4>
-        <a class="btn btn-primary btn-large" href="https://wrapbootstrap.com/theme/re-start-clean-multipurpose-template-WB0NPLR53">Call us <strong>today</strong></a>
+        <a class="btn btn-primary btn-large" href="contact.php">Call us <strong>today</strong></a>
         </section>
         <section id="features_teasers_wrapper">
         <div class="row">
@@ -83,11 +83,11 @@
           </div>
           <div class="span4 feature_teaser"> <img alt="responsive" src="images/git.png">
             <h3>Versitile</h3>
-            <p>Our staff has the knowledge and the tools to tackle any problem, for home or small business. Whether it's setting up the new family computer or optimizing the company database, Voska Electronics can handle it all.</p>
+            <p>Our staff has the knowledge and the tools to tackle any problem, for home or small business. Whether it's setting up your new family computer or optimizing the company database, Voska Electronics can handle it all.</p>
           </div>
           <div class="span4 feature_teaser"> <img alt="responsive" src="images/less.png">
             <h3>Work Smarter</h3>
-            <p>We </p>
+            <p>We</p>
           </div>
         </div>
         </section>
