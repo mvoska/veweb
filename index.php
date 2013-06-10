@@ -42,7 +42,7 @@
           <a href="home.php">
             <div class="carousel-caption">
               <h1 class="inverse"><strong>Home</strong> support<br>
-                Get your electronics<strong>fixed</strong> and your questions <strong>answered</strong></h1>
+                Get your electronics <strong>fixed</strong> and your questions <strong>answered</strong></h1>
               <p class="lead"></p>
             </div>
           </a>
