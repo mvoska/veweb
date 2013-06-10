@@ -12,7 +12,9 @@
     <header>
     <div class="container">
       <div class="navbar">
-        <div class="navbar-inner"> <a class="brand" href="index.php"> <img src="images/velogo.png" width="90" height="90" alt="Voska Electronics"> <span class="logo_title">Voska <strong>Electronics</strong></span> <span class="logo_subtitle">Tech support you can trust</span> </a> <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="nb_left pull-left"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></span> <span class="nb_right pull-right">menu</span> </a>
+        <div class="navbar-inner">  
+          <?php include("logo.php"); ?>
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="nb_left pull-left"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></span> <span class="nb_right pull-right">menu</span> </a>
           <div class="nav-collapse collapse">
             <ul class="nav pull-right">
               <li class="active"><a href="index.php">Home</a></li>
@@ -23,7 +25,6 @@
                 <li><a href="business.php">Business</a></li>
               </ul>
               </li>
-              <li><a href="portfolio.php">Portfolio</a></li>
               <li><a href="blog.php">Blog</a></li>
               <li><a href="contact.php">Contact</a></li>
             </ul>
@@ -36,6 +37,17 @@
     <section id="slider_wrapper">
     <div id="main_flexslider" class="flexslider">
       <ul class="slides">
+        <li class="item"  style="background-image: url(images/1.jpg)">
+        <div class="container">
+          <a href="home.php">
+            <div class="carousel-caption">
+              <h1 class="inverse"><strong>Home</strong> support<br>
+                Get your electronics<strong>fixed</strong> and your questions <strong>answered</strong></h1>
+              <p class="lead"></p>
+            </div>
+          </a>
+        </div>
+        </li>
         <li class="item"  style="background-image: url(images/3.jpg)">
         <div class="container">
           <a href="business.php">
@@ -45,15 +57,6 @@
               <p class="lead inverse">We are your one stop shop for IT services, only pay when you need it and we'll keep you miles ahead of the competition.</p>
             </div>
           </a>
-        </div>
-        </li>
-        <li class="item"  style="background-image: url(images/1.jpg)">
-        <div class="container">
-          <div class="carousel-caption">
-            <h1 class="inverse"><strong>Home</strong> support<br>
-              Get <strong>all</strong> of your home's electronics fixed </h1>
-            <p class="lead"></p>
-          </div>
         </div>
         </li>
         <li class="item"  style="background-image: url(images/2.jpg)">
@@ -77,17 +80,17 @@
         </section>
         <section id="features_teasers_wrapper">
         <div class="row">
-          <div class="span4 feature_teaser"> <img alt="responsive" src="images/responsive.png">
+          <div class="span4 feature_teaser"> <i class="fa-icon-money fa-icon-large"></i>
             <h3>Affordable</h3>
             <p>As a small efficient business, we are able to provide smarter tech services at less than 50% of the cost of the big guys like GeekSquad</p>
           </div>
-          <div class="span4 feature_teaser"> <img alt="responsive" src="images/git.png">
-            <h3>Versitile</h3>
-            <p>Our staff has the knowledge and the tools to tackle any problem, for home or small business. Whether it's setting up your new family computer or optimizing the company database, Voska Electronics can handle it all.</p>
+          <div class="span4 feature_teaser"> <i class="fa-icon-group fa-icon-large"></i>
+            <h3>Customer Oriented</h3>
+            <p>We value our customers and only hire personable staff who can teach you how to use your technology more effectively. Our goal is customer satisfaction. </p>
           </div>
-          <div class="span4 feature_teaser"> <img alt="responsive" src="images/less.png">
-            <h3>Work Smarter</h3>
-            <p>We</p>
+          <div class="span4 feature_teaser"> <i class="fa-icon-fullscreen fa-icon-large"></i>
+            <h3>Versitile</h3>
+            <p>Our staff has the knowledge and the tools to tackle any problem, for home or small business. Whether it's setting up your new family computer or streamlining your company, Voska Elelectronics can handle it all.</p>
           </div>
         </div>
         </section>
@@ -135,6 +138,6 @@
       </div>
       <?php include("footer.php"); ?> 
     </div>
-<?php include("scripts.php"); ?>
-    </body>
-  </html>
+    <?php include("scripts.php"); ?>
+  </body>
+</html>

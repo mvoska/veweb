@@ -49,7 +49,7 @@
       <div class="row">
         <div class="span6"> Copyright &copy;2013 all rights reserved 
         </div>
-        <div class="span6 text-right"> Designed by <a href="http://www.leonart.gr">leonart</a>
+        <div class="span6 text-right"> Designed by <a href="http://www.voskaelectronics.com">Voska Electronics</a>
         </div>
       </div>
     </div>

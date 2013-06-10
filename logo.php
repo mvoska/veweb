@@ -1,0 +1,1 @@
+<a class="brand" href="index.php"> <img src="images/velogo.png" width="90" height="90" alt="Voska Electronics"> <span class="logo_title">Voska <strong>Electronics</strong></span> <span class="logo_subtitle">Tech support you can trust</span> </a>
