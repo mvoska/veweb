@@ -39,11 +39,11 @@
         <li class="item"  style="background-image: url(images/3.jpg)">
         <div class="container">
           <a href="business.php">
-          <div class="carousel-caption">
-            <h1>We know <strong>small business</strong><br>
-              keep yours on<strong> top</strong> of the competition</h1>
-            <p class="lead inverse">We are your one stop shop for IT services, only pay when you need it and we'll keep you miles ahead of the competition.</p>
-          </div>
+            <div class="carousel-caption">
+              <h1>We know <strong>small business</strong><br>
+                keep yours on<strong> top</strong> of the competition</h1>
+              <p class="lead inverse">We are your one stop shop for IT services, only pay when you need it and we'll keep you miles ahead of the competition.</p>
+            </div>
           </a>
         </div>
         </li>
@@ -135,6 +135,6 @@
       </div>
       <?php include("footer.php"); ?> 
     </div>
-    <?php include("scripts.php"); ?>
+<?php include("scripts.php"); ?>
     </body>
   </html>
