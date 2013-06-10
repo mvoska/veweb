@@ -48,7 +48,7 @@
           </a>
         </div>
         </li>
-        <li class="item"  style="background-image: url(images/3.jpg)">
+        <li class="item"  style="background-image: url(images/2.jpg)">
         <div class="container">
           <a href="business.php">
             <div class="carousel-caption">
@@ -59,7 +59,7 @@
           </a>
         </div>
         </li>
-        <li class="item"  style="background-image: url(images/2.jpg)">
+        <li class="item"  style="background-image: url(images/3.jpg)">
         <div class="container">
           <div class="carousel-caption">
             <h1>Work more <strong>efficiently</strong><br>
