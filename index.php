@@ -80,15 +80,15 @@
         </section>
         <section id="features_teasers_wrapper">
         <div class="row">
-          <div class="span4 feature_teaser"> <i class="fa-icon-money fa-icon-large"></i>
+          <div class="span4 feature_teaser"> <i class="icon-money icon-4x"></i>
             <h3>Affordable</h3>
             <p>As a small efficient business, we are able to provide smarter tech services at less than 50% of the cost of the big guys like GeekSquad</p>
           </div>
-          <div class="span4 feature_teaser"> <i class="fa-icon-group fa-icon-large"></i>
+          <div class="span4 feature_teaser"> <i class="icon-group icon-4x"></i>
             <h3>Customer Oriented</h3>
             <p>We value our customers and only hire personable staff who can teach you how to use your technology more effectively. Our goal is customer satisfaction. </p>
           </div>
-          <div class="span4 feature_teaser"> <i class="fa-icon-fullscreen fa-icon-large"></i>
+          <div class="span4 feature_teaser"> <i class="icon-fullscreen icon-4x"></i>
             <h3>Versitile</h3>
             <p>Our staff has the knowledge and the tools to tackle any problem, for home or small business. Whether it's setting up your new family computer or streamlining your company, Voska Elelectronics can handle it all.</p>
           </div>
