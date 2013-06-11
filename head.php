@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="js/prettyPhoto_3.1.5/prettyPhoto.css" type="text/css" media="screen" />
 <link href="style.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css" media="screen" >
+<link href="ve.css" rel="stylesheet" type="text/css">
 <!--[if IE 7]>
     <link rel="stylesheet" href="fonts/font-awsome/css/font-awesome-ie7.min.css">
     <![endif]-->
