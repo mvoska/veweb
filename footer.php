@@ -4,11 +4,9 @@
       <div class="row">
         <div class="span1 twitter_feed_icon"><a href="#twitter"><i class="icon icon-twitter-sign"></i></a>
         </div>
-        <div class="span11">
-          <blockquote>
-            <p>Wordle creates Typographic images from any txt or even your delicious bookmarks. Here is my untitled from Anonymous <a href="#">http://unhub.com/LIot</a></p>
-                    &mdash; LeonART (@leonartgr) <a href="https://twitter.com/leonartgr/">January 25, 2013</a>
-          </blockquote>
+        <div class="span11"> 
+<div id="tweets">
+</div>
         </div>
       </div>
     </div>

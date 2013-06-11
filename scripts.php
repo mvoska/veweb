@@ -8,3 +8,23 @@
 <script type="text/javascript" src="js/jquery.ui.totop.js"></script>
 <script type="text/javascript" src="js/easing.js"></script>
 <script type="text/javascript" src="js/restart_theme.js"></script>
+<script type="text/javascript" src="js/tweetable.jquery.js"></script>
+<script type="text/javascript">
+  jQuery(function(){
+        jQuery('#tweets').tweetable({
+          username: 'mattvoska', 
+            time: true,
+            rotate: true,
+            speed: 8000, 
+            limit: 10,
+            replies: true,
+            retweets: true,
+            position: 'append',
+            failed: "Sorry, twitter is currently unavailable for this user.",
+            html5: true,
+            onComplete:function(jQueryul){
+              jQuery('time').timeago();
+            }
+        });
+        });
+  </script>
