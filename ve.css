@@ -4,4 +4,9 @@
 #footer_teasers_wrapper .footer_teaser h3 {
   font-size: 20pt;
 }
-
+#tweets {
+  margin-top: 10px;
+}
+#tweets li{
+  list-style-type: none;
+}

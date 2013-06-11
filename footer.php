@@ -17,7 +17,7 @@
         <div class="span6 footer_teaser">
           <h3>About us</h3>
           <p>Tech support, consulting, and systems engineering, for home and business.</p>
-          <p><a href="tel: 1-224-633-9427"><i class="icon-phone"></i> (224) 633-9427</a></p>
+              <p><a href="tel: 1-224-633-9427"><i class="icon-phone"></i> (224) 633-9427</a></p>
           <p><a href="mailto: info@voskaelectronics.com"><i class="icon-envelope"></i> info@voskaelectronics.com</a></p>
         </div>
         <div class="span6 footer_teaser">
