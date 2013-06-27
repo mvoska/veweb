@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> 
 <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
- <title>Voska Electronics | Contact</title>
+ <title>VE | Contact</title>
  <?php include("head.php"); ?>
 </head>
 <body class="collapsing_header">
