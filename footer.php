@@ -6,6 +6,7 @@
         </div>
         <div class="span11"> 
 <div id="tweets">
+  <h3>Coming soon</h3>
 </div>
         </div>
       </div>
@@ -23,13 +24,9 @@
         <div class="span6 footer_teaser">
           <h3>Latest News</h3>
           <ul class="media-list">
-            <li class="media"> <a href="#" class="media-photo" style="background-image:url(images/portfolio/t5.jpg)"></a> <a href="#"  class="media-date">19<span>FEB</span></a>
-            <h5 class="media-heading"><a href="#">Media heading, this is a title of a news...</a></h5>
-            <p>Fugiat dapibus, tellus ac cursus commodo, ut fermentum...</p>
-            </li>
-            <li class="media"> <a href="#" class="media-photo" style="background-image:url(images/portfolio/t4.jpg)"></a> <a href="#"  class="media-date">18<span>FEB</span></a>
-            <h5 class="media-heading"><a href="#">Media heading, of a news item.</a></h5>
-            <p>Fugiat dapibus, tellus ac cursus commodo, condime ntum nibh, ut fermentum...</p>
+            <li class="media"> <a href="#" class="media-photo" style="background-image:url(images/portfolio/t5.jpg)"></a> <a href="#"  class="media-date">22<span>JUN</span></a>
+            <h5 class="media-heading"><a href="#">Launched our new website!</a></h5>
+            <p>Email us with any feedback</p>
             </li>
           </ul>
         </div>

@@ -96,7 +96,7 @@
         </section>
         <section id="portfolio_teasers_wrapper">
         <h2 class="section_header">What our clients say:</h2>
-        <div class="portfolio_strict row">
+        <!--div class="portfolio_strict row">
           <div class="portfolio_item span3">
             <div class="portfolio_photo" style="background-image:url(images/portfolio/a1.jpg)"> <a href="portfolio_item.php"> 
                 <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum...</p>
@@ -133,7 +133,7 @@
               <p>Lake Zurich, IL</p>
             </div>
           </div>
-        </div>
+        </div-->
         </section>
       </div>
       <?php include("footer.php"); ?> 
