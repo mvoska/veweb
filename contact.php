@@ -42,7 +42,7 @@
       <section id="contact">
         <div class="hgroup">
           <h1>Contact us</h1>
-          <h2>This is a subtitle used optionally for explaining more...</h2>
+          <h2>We love hearing from our clients</h2>
           <ul class="breadcrumb pull-right">
             <li><a href="index.html">Home</a> <span class="divider">/</span></li>
             <li class="active">Contact</li>
@@ -60,7 +60,7 @@
               <a href="mailto:#">matt@voskaelectronics.com</a>
             </address>
           </div>
-          <div class="span8 contact_form">
+          <!--div class="span8 contact_form">
             <form>
               <div class="row">
                 <div class="span4">
@@ -82,6 +82,10 @@
                 <div class="span8"> <a class="btn btn-large btn-success"><span>Submit Message</span></a></div>
               </div>
             </form>
+          </div-->
+          <div>
+            <h1>Email us</h1>
+            <button><a href="mailto:info@voskaelectronics.com">Click Here</a></button>
           </div>
         </div>
       </section>
