@@ -17,7 +17,7 @@
           <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="nb_left pull-left"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></span> <span class="nb_right pull-right">menu</span> </a>
           <div class="nav-collapse collapse">
             <ul class="nav pull-right">
-              <li class="active"><a href="index.php">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li><a href="404.php">About Us</a></li>
               <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Services<span class="caret"></span></a>
                 <ul class="dropdown-menu">
@@ -26,7 +26,7 @@
                 </ul>
               </li>
               <li><a href="404.php">Blog</a></li>
-              <li><a href="contact.php">Contact</a></li>
+              <li class="active"><a href="contact.php">Contact</a></li>
             </ul>
           </div>
         </div>
@@ -56,7 +56,7 @@
               <abbr title="Phone">P:</abbr> (224) 633-9427
             </address>
             <address>
-              <strong>Matt Voska</strong><br>
+              <strong>Matt Voska</strong> - CEO<br>
               <a href="mailto:#">matt@voskaelectronics.com</a>
             </address>
           </div>
@@ -84,8 +84,7 @@
             </form>
           </div-->
           <div>
-            <h1>Email us</h1>
-            <button><a href="mailto:info@voskaelectronics.com">Click Here</a></button>
+            <button class="btn btn-large" style="font-size:30px; padding: 22px 38px;"><a href="mailto:info@voskaelectronics.com">Email Us - info@VoskaElectronics.com</a></button>
           </div>
         </div>
       </section>
