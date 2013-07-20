@@ -18,14 +18,14 @@
           <div class="nav-collapse collapse">
             <ul class="nav pull-right">
               <li><a href="index.php">Home</a></li>
-              <li><a href="under_construction.php">About Us</a></li>
+              <li><a href="#">About Us</a></li>
               <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Services<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="under_construction.php">Home</a></li>
-                  <li><a href="under_construction.php">Business</a></li>
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">Business</a></li>
                 </ul>
               </li>
-              <li><a href="under_construction.php">Blog</a></li>
+              <li><a href="#">Blog</a></li>
               <li class="active"><a href="contact.php">Contact</a></li>
             </ul>
           </div>
