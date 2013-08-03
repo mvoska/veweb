@@ -4,7 +4,8 @@
 <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> 
 <html class="no-js" lang="en"> <!--<![endif]-->
-  <head>    <title>Voska Electronics | Home</title>
+  <head>    
+    <title>Voska Electronics | Home</title>
     <?php include("head.php"); ?>
   </head>
   <body>
@@ -85,7 +86,7 @@
           </div>
           <div class="span4 feature_teaser"> <i class="icon-group icon-4x"></i>
             <h3>Customer Oriented</h3>
-            <p>We value our customers and only hire personable staff who can teach you how to use your technology more effectively. Our goal is customer satisfaction. </p>
+            <p>We value our customers and have personable staff who can teach you how to use your technology more effectively. Our goal is customer satisfaction. </p>
           </div>
           <div class="span4 feature_teaser"> <i class="icon-fullscreen icon-4x"></i>
             <h3>Versitile</h3>
@@ -116,7 +117,7 @@
           </div>
           <div class="portfolio_item span3">
             <div class="portfolio_photo" style="background-image:url(images/portfolio/p3.jpg)"> <a href="portfolio_item.html"> 
-                <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum...</p>
+                <p>Matt’s passion & wealth of knowledge for IT is evident the first time you talk with him. Being a photographer, it is a paramount that I have the latest technology that fits into my budget. Matt personally built a custom computer that fit all my needs. He provided multiple quotes with pros & cons for each option, outlining the differences of each so I felt comfortable making an informed decision. His follow-through & customer service is as equally impressive as his vast knowledge of all things IT. I wouldn’t trust anyone else for my computer needs other than Matt!</p>
             </a> </div>
             <div class="portfolio_description">
               <h3><a href="portfolio_item.html">Click Imagery</a></h3>
