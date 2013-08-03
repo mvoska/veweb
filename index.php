@@ -38,7 +38,7 @@
       <ul class="slides">
         <li class="item"  style="background-image: url(images/1.jpg)">
         <div class="container">
-          <a href="home.php">
+          <a href="#">
             <div class="carousel-caption">
               <h1 class="inverse"><strong>Home</strong> support<br>
                 Get your electronics <strong>fixed</strong> and your questions <strong>answered</strong></h1>
@@ -49,7 +49,7 @@
         </li>
         <li class="item"  style="background-image: url(images/2.jpg)">
         <div class="container">
-          <a href="business.php">
+          <a href="#">
             <div class="carousel-caption">
               <h1>We know <strong>small business</strong><br>
                 Keep yours on<strong> top</strong> of the competition</h1>
