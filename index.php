@@ -142,8 +142,9 @@
           </div>
         </div>
       </section-->
-      <?php include("footer.php"); ?>
     </div>
-  <?php include("scripts.php"); ?>
+  <?php include("footer.php"); ?>
+  </div>
+<?php include("scripts.php"); ?>
 </body>
 </html>
