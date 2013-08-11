@@ -10,89 +10,96 @@
   </head>
   <body>
     <header>
-    <div class="container">
-      <div class="navbar">
-        <div class="navbar-inner">  
-          <?php include("logo.php"); ?>
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="nb_left pull-left"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></span> <span class="nb_right pull-right">menu</span> </a>
-          <div class="nav-collapse collapse">
-            <ul class="nav pull-right">
-              <li class="active"><a href="index.php">Home</a></li>
-              <li><a href="#">About Us</a></li>
-              <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Services<span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Business</a></li>
+      <div class="container">
+        <div class="navbar">
+          <div class="navbar-inner">  
+            <?php include("logo.php"); ?>
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="nb_left pull-left"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></span> <span class="nb_right pull-right">menu</span> </a>
+            <div class="nav-collapse collapse">
+              <ul class="nav pull-right">
+                <li class="active"><a href="index.php">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Services<span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Business</a></li>
+                  </ul>
+                </li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
-              </li>
-              <li><a href="#">Blog</a></li>
-              <li><a href="contact.php">Contact</a></li>
-            </ul>
+            </div>
           </div>
         </div>
+        <?php include("social_media_top.php"); ?>
       </div>
-      <?php include("social_media_top.php"); ?>
-    </div>
     </header>
     <section id="slider_wrapper">
-    <div id="main_flexslider" class="flexslider">
-      <ul class="slides">
-        <li class="item"  style="background-image: url(images/1.jpg)">
-        <div class="container">
-          <a href="#">
-            <div class="carousel-caption">
-              <h1 class="inverse"><strong>Home</strong> support<br>
-                Get your electronics <strong>fixed</strong> and your questions <strong>answered</strong></h1>
-              <p class="lead"></p>
+      <div id="main_flexslider" class="flexslider">
+        <ul class="slides">
+          <li class="item"  style="background-image: url(images/1.jpg)">
+            <div class="container">
+              <a href="#">
+                <div class="carousel-caption">
+                  <h1 class="inverse">
+                    <strong>Home</strong> support<br>
+                    Get your electronics <strong>fixed</strong> and your questions <strong>answered</strong>
+                  </h1>
+                  <p class="lead"></p>
+                </div>
+              </a>
             </div>
-          </a>
-        </div>
-        </li>
-        <li class="item"  style="background-image: url(images/2.jpg)">
-        <div class="container">
-          <a href="#">
-            <div class="carousel-caption">
-              <h1>We know <strong>small business</strong><br>
-                Keep yours on<strong> top</strong> of the competition</h1>
-              <p class="lead inverse">We are your one stop shop for IT services, only pay when you need it and we'll keep you miles ahead of the competition.</p>
+          </li>
+          <li class="item"  style="background-image: url(images/2.jpg)">
+            <div class="container">
+              <a href="#">
+                <div class="carousel-caption">
+                  <h1>We know <strong>small business</strong><br>
+                    Keep yours on<strong> top</strong> of the competition
+                  </h1>
+                  <p class="lead inverse">We are your one stop shop for IT services, only pay when you need it and we'll keep you miles ahead of the competition.
+                  </p>
+                </div>
+              </a>
             </div>
-          </a>
-        </div>
-        </li>
-        <li class="item"  style="background-image: url(images/3.jpg)">
-        <div class="container">
-          <div class="carousel-caption">
-            <h1>Work more <strong>efficiently</strong><br>
-              Save <strong>time</strong> and <strong>money</strong></h1>
-            <p class="lead inverse">We can fix all of your tech annoyances saving you time and money in your workflow while putting you at ease with your technology.</p>
-          </div>
-        </div>
-        </li>
-      </ul>
-    </div>
+          </li>
+          <li class="item"  style="background-image: url(images/3.jpg)">
+            <div class="container">
+              <div class="carousel-caption">
+                <h1>Work more <strong>efficiently</strong><br>
+                  Save <strong>time</strong> and <strong>money</strong>
+                </h1>
+                <p class="lead inverse">
+                  We can fix all of your tech annoyances saving you time and money in your workflow while putting you at ease with your technology.
+                </p>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
     </section>
     <div id="main">
       <div class="container">
         <section class="call_to_action">
-        <h3>focus on what’s important</h3>
-        <h4>Voska Electronics helps save you time and money</h4>
-        <a class="btn btn-primary btn-large" href="contact.php">Call us <strong>today</strong></a>
+          <h3>focus on what’s important</h3>
+          <h4>Voska Electronics helps save you time and money</h4>
+          <a class="btn btn-primary btn-large" href="contact.php">Call us <strong>today</strong></a>
         </section>
         <section id="features_teasers_wrapper">
-        <div class="row">
-          <div class="span4 feature_teaser"> <i class="icon-money icon-4x"></i>
-            <h3>Affordable</h3>
-            <p>As a small efficient business, we are able to provide smarter tech services at less than 50% of the cost of the big guys like GeekSquad</p>
+          <div class="row">
+            <div class="span4 feature_teaser"> <i class="icon-money icon-4x"></i>
+              <h3>Affordable</h3>
+              <p>As a small efficient business, we are able to provide smarter tech services at less than 50% of the cost of the big guys like GeekSquad</p>
+            </div>
+            <div class="span4 feature_teaser"> <i class="icon-group icon-4x"></i>
+              <h3>Customer Oriented</h3>
+              <p>We value our customers and have personable staff who can teach you how to use your technology more effectively. Our goal is customer satisfaction. </p>
+            </div>
+            <div class="span4 feature_teaser"> <i class="icon-fullscreen icon-4x"></i>
+              <h3>Versitile</h3>
+              <p>Our staff has the knowledge and the tools to tackle any problem, for home or small business. Whether it's setting up your new family computer or streamlining your company, Voska Elelectronics can handle it all.</p>
+            </div>
           </div>
-          <div class="span4 feature_teaser"> <i class="icon-group icon-4x"></i>
-            <h3>Customer Oriented</h3>
-            <p>We value our customers and have personable staff who can teach you how to use your technology more effectively. Our goal is customer satisfaction. </p>
-          </div>
-          <div class="span4 feature_teaser"> <i class="icon-fullscreen icon-4x"></i>
-            <h3>Versitile</h3>
-            <p>Our staff has the knowledge and the tools to tackle any problem, for home or small business. Whether it's setting up your new family computer or streamlining your company, Voska Elelectronics can handle it all.</p>
-          </div>
-        </div>
         </section>
         <!--section id="portfolio_teasers_wrapper">
         <h2 class="section_header">What our clients say:</h2>
@@ -134,10 +141,9 @@
             </div>
           </div>
         </div>
-        </section-->
-      </div>
-      <?php include("footer.php"); ?> 
+      </section-->
+      <?php include("footer.php"); ?>
     </div>
-    <?php include("scripts.php"); ?>
-  </body>
+  <?php include("scripts.php"); ?>
+</body>
 </html>

@@ -5,9 +5,9 @@
         <div class="span1 twitter_feed_icon"><a href="#twitter"><i class="icon icon-twitter-sign"></i></a>
         </div>
         <div class="span11"> 
-<div id="tweets">
-  <h3>Coming soon</h3>
-</div>
+          <div id="tweets">
+            <h3>Coming soon</h3>
+          </div>
         </div>
       </div>
     </div>
